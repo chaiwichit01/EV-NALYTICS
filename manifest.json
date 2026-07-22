@@ -1,7 +1,7 @@
 {
   "name": "EV TAXI FLEET ANALYTICS",
   "short_name": "EV ANALYTICS",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3b82f6",
